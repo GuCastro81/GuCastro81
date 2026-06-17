@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo Castro 👋
 
-AI Engineer | Machine Learning | AI Product Builder
+AI Engineer | LLM Applications | Multi-Agent Systems | AI Product Builder
 
 I build intelligent applications that combine AI, automation, retrieval systems, and real-world problem solving.
 
